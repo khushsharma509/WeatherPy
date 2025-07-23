@@ -1,8 +1,6 @@
-
 # 🌦️ WeatherPy - A Sleek Weather Web App
 
 A minimalist, stylish, and responsive web application built with Python and Flask that provides real-time weather forecasts for any city in the world.
-
 
 ---
 
@@ -39,7 +37,7 @@ Make sure you have Python 3 and `pip` installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/khushsharma509/WeatherPy.git
+    git clone [https://github.com/khushsharma509/WeatherPy.git](https://github.com/khushsharma509/WeatherPy.git)
     cd WeatherPy
     ```
 
@@ -59,17 +57,22 @@ Make sure you have Python 3 and `pip` installed on your system.
     pip install -r requirements.txt
     ```
 
-4. **For Local Development **
- ```bash
-This uses Flask's built-in server, which is perfect for testing on your own computer.
+---
 
-Run this command in your terminal:
+## 🏃 Running the Application
 
-Bash
+This section explains how to run the application on your local machine for development and testing.
 
-python weather_webApp.py
-Then, open your web browser and go to:
-http://127.0.0.1:5000
+1.  **Start the Flask development server:**
+    ```bash
+    python weather_webApp.py
+    ```
 
-You should see your weather app running!
-```
+2.  **View the application:**
+    Open your web browser and navigate to the following URL:
+    ```
+    [http://127.0.0.1:5000](http://127.0.0.1:5000)
+    ```
+    You should now see the WeatherPy application running live on your computer!
+
+---
