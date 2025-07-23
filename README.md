@@ -3,7 +3,6 @@
 
 A minimalist, stylish, and responsive web application built with Python and Flask that provides real-time weather forecasts for any city in the world.
 
-![WeatherPy Demo GIF](https://i.imgur.com/8aV4V6s.gif)
 
 ---
 
