@@ -39,8 +39,8 @@ Make sure you have Python 3 and `pip` installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/weatherpy.git](https://github.com/your-username/weatherpy.git)
-    cd weatherpy
+    git clone https://github.com/khushsharma509/WeatherPy.git
+    cd WeatherPy
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -58,3 +58,18 @@ Make sure you have Python 3 and `pip` installed on your system.
     ```bash
     pip install -r requirements.txt
     ```
+
+4. **For Local Development **
+ ```bash
+This uses Flask's built-in server, which is perfect for testing on your own computer.
+
+Run this command in your terminal:
+
+Bash
+
+python weather_webApp.py
+Then, open your web browser and go to:
+http://127.0.0.1:5000
+
+You should see your weather app running!
+```
